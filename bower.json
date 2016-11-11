@@ -1,0 +1,20 @@
+{
+  "name": "angular-todo",
+  "description": "\"# angular-todo\"",
+  "main": "index.js",
+  "authors": [
+    "Oliver <oliverocepek@yahoo.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/olyhub/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-route": "^1.5.8"
+  }
+}
